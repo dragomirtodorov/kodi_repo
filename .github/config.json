@@ -1,0 +1,8 @@
+{
+    "branchmap": [
+        {
+            "name": "master",
+            "minversion": "19.0.0"
+        }
+    ]
+}
